@@ -12,7 +12,7 @@ Such dashboards are commonly used in analytics to track **sales performance, pro
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard](./Executives%20page.png)
+![Dashboard](Amazon%20Sales%20Dashboard/executive-page.png)
 
 ---
 
